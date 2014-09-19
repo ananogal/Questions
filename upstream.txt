@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The "upstream" remote is your repository online. You can add more remotes to your repository if you have fork the repository and whant to added the changes. The command to add a new remote is: "git remote add the_remote_name url", where the_remote_name should be your remote name and the url the url of your repository in github.
