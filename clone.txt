@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+The clone command in GitHub, will clone to your local repsitory the repository mencioned in the url of the command "git clone url". 
