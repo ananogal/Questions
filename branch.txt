@@ -1,1 +1,1 @@
-Explain what the branch is, in your own words. 
+The branch command creates a copy of project at the moment that you created it. In the new branch you can change all files without changing then in the master branch. If you go back to the branch master will have it exactly as when you did the branch. The changes made only will be visible in the master when you do merge. The command "git branch" only list the branches in your project. To add a new branch you have "git checkout -b nameBranch"
